@@ -1,5 +1,5 @@
 # Date of Birth Component 
 
-**Get started by running npm start**
+Get started by running **npm start**
 
 
